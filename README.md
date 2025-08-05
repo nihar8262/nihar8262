@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **CISCO System PVT. LTD**
 
-- 🌱 I’m currently learning **JAVA Full Stack Development**
+- 🌱 I’m currently working on **ANGULAR Full Stack Project**
 
 - 👯 I’m looking to collaborate on **Web Development project**
 
