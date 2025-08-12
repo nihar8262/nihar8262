@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **niharnics@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gfudUdYEudbixy0sonbuC1IEAScazhGu/view?pli=1](https://drive.google.com/file/d/1gfudUdYEudbixy0sonbuC1IEAScazhGu/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LMChQRxECWY4LCIVb_8zFe5NqbQXGz4A/view](https://drive.google.com/file/d/1LMChQRxECWY4LCIVb_8zFe5NqbQXGz4A/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
