@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working in **CISCO System PVT. LTD**
 
-- 🌱 I’m currently working on **ANGULAR Full Stack Project**
+-  I’m currently working on **ANGULAR Full Stack Project**
 
-- 👯 I’m looking to collaborate on **Web Development project**
+-  I’m looking to collaborate on **Web Development project**
 
 - 👨‍💻 All of my projects are available at [https://nihar-chandra-sharma.vercel.app/](https://nihar-chandra-sharma.vercel.app/)
 
